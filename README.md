@@ -72,3 +72,17 @@ This project answers the following questions:
 - Business Insight Cards
 - Multi-page Dashboard
 
+  ## Dashboard Preview
+
+  ### Executive Summary
+  !<img width="772" height="496" alt="Executive_Summary" src="https://github.com/user-attachments/assets/a5a3f8ee-6ac1-4b5f-a9b8-b5b99b772e1c" />
+
+  ### CPT & ICD Analysis
+  !<img width="757" height="497" alt="BilledVsPaidAmount_icd_cpt_analysis" src="https://github.com/user-attachments/assets/1dbefea4-c1cf-43e9-bac2-ded12bf9c943" />
+
+  ### Member Analysis
+  !<img width="755" height="499" alt="Member_Level_Analysis" src="https://github.com/user-attachments/assets/f7c94537-6f09-44ac-81b4-e3421d671ba8" />
+
+
+
+
