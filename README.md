@@ -72,6 +72,15 @@ This project answers the following questions:
 - Business Insight Cards
 - Multi-page Dashboard
 
+  ## Repository Contents
+  **[health_care_claims_analysis.sql](https://github.com/user-attachments/files/29931107/health_care_claims_analysis.sql)** - SQL scripts used for data cleaning and analysis.
+  **Healthcare Claims Dashboard.pbix** - Interactive Power BI dashboard
+  **Images/** - Screenshots of the dashboard
+
+
+
+
+
   ## Dashboard Preview
 
   ### Executive Summary
